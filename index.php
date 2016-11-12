@@ -35,19 +35,37 @@
     </div>
 
     <div id="Menu">
-        <div id="MenuButtons" name="About" onclick="update('main.php'); stylesupdate(event.target);">обомне</div>
-        <div id="MenuButtons1" name="Services" onclick="update('services.php');stylesupdate(event.target);">Услуги</div>
-        <div id="MenuButtons2" name="Portfolio" onclick="update('portfolio.php');stylesupdate(event.target);">Портфолио</div>
-        <div id="MenuButtons3" name="Contacts" onclick="update('contacts.php');stylesupdate(event.target);">Контакты</div>
+        <div id="MenuButtons" name="About" onclick="alert('Тут будет вылезать окно с инпутами для того чтобы написать на емаил')">Связаться</div>
+        <div id="MenuButtons1" name="Services" value="window.scrollBy(0,900)" onclick="window.scrollBy(0,900)">Услуги</div>
+        <div id="MenuButtons2" name="Portfolio" value="window.scrollBy(0,1700)" onclick="window.scrollBy(0,1700)">Портфолио</div>
+        <div id="MenuButtons3" name="Contacts" value="window.scrollBy(0,1920)" onclick="window.scrollBy(0,1920)">Контакты</div>
     </div>
 
     <div id="Undermenu">
 
     </div>
+<div style="float: right; margin-right: 1%;">
+    <img src="Up.png" width="64" height="64"  onclick="up();" style="float: right">
+</div>
+
 
 
 </div>
-
+<script>
+    var t;
+    function up()
+    {
+        var top = Math.max(document.body.scrollTop,document.documentElement.scrollTop);
+        if(top > 0)
+        {
+            window.scrollBy(0,-100);
+            t = setTimeout('up()',20);
+        }
+        else
+            clearTimeout(t);
+        return false;
+    }
+</script>
 </body>
 
 </html>

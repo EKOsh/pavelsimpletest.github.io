@@ -124,6 +124,81 @@
 
     <div id = "AllPortfoli">
 
-    </div>
+        <div id="Portfolio_Head">
+            Портфолио
+        </div>
 
+        <div id ="Portfolio_All_IMG">
+            <div id="Portfolio_IMG">
+                <div id="SomeSheet">
+                    <img src="Part1.jpg" width="300px" height="300px" >
+                </div>
+            </div>
+
+            <div id="Portfolio_IMG">
+                <div id="SomeSheet">
+                    <img src="Part2.jpg" width="300px" height="300px" >
+                </div>
+            </div>
+
+            <div id="Portfolio_IMG">
+                <div id="SomeSheet">
+                    <img src="Part3.jpg" width="300px" height="300px" >
+                </div>
+            </div>
+
+            <div id="Portfolio_IMG">
+                <div id="SomeSheet">
+                    <img src="Part4.jpg"  width="300px" height="300px">
+                </div>
+            </div>
+            <div id="Portfolio_IMG">
+                <div id="SomeSheet">
+                    <img src="Part5.jpg"  width="300px" height="300px">
+                </div>
+            </div>
+
+            <div id="Portfolio_IMG">
+                <div id="SomeSheet">
+                    <img src="Part6.jpg"  width="300px" height="300px">
+                </div>
+            </div>
+
+            <div id="Portfolio_IMG">
+                <div id="SomeSheet">
+                    <img src="Part7.jpg"  width="300px" height="300px">
+                </div>
+            </div>
+
+            <div id="Portfolio_IMG">
+                <div id="SomeSheet">
+                    <img src="Part8.jpg"  width="300px" height="300px">
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+    <div id="ContactUs">
+
+        <div id="MainInf">
+            <div id="Contact_head">Контакты<br></div>
+            <div id="Contact_Phone">
+               <span style="color: white;">г. Торонто</span> <br>
+                8 (913) 431 26 02<br>
+
+                Bezneima@gmail.com
+            </div>
+        </div>
+        <div id="WriteMe">
+            Powered by Bezneima
+        </div>
+        <div id="WhatICanDo">
+            <div id="Contact_head"><span style="float: right;padding-right: 10px;">Услуги</span><br></div>
+            <div id="Serviss_text_bot">
+                Свадебная съёмка, детская съёмка, студийная съёмка, art-съёмка, съёмка love story, фотопрогулки. Помощь в создании образа, аренда студии и аксессуаров.
+            </div>
+        </div>
+
+    </div>
 </div>

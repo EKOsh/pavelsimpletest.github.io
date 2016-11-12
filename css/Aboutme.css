@@ -123,7 +123,111 @@
 #AllPortfoli
 {
     margin-top: 50px;
+    padding-top: 40px;
     background-color: #0D2E50;
     height: 840px;
     width: 100%;
+}
+
+#Portfolio_Head
+{
+    width: 100%;
+    height: 42px;
+    font-size: 48px;
+    line-height: 42px;
+    color: white;
+    font-family: MyFont, 'Comic Sans MS', cursive;
+    text-align: center;
+}
+
+#Portfolio_IMG
+{
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+    width: 300px;
+}
+
+#Portfolio_All_IMG
+{
+    padding-top: 40px;
+    margin: 0 auto;
+    width: 1260px;
+    height: 700px;
+}
+
+#SomeSheet
+{
+    width: 300px;
+    height: 300px;
+    background-color: #2D7CFA;
+    margin: 0 auto;
+    position:relative;
+}
+
+#SomeSheet img{
+    margin:0;
+    position:absolute;
+    top:0px;
+    left:0px;
+    clip:rect(0px 300px 300px 0px);
+}
+
+#ContactUs
+{
+    background-color: #008895;
+    width: 100%;
+    height: 180px;
+}
+
+#MainInf
+{
+    float: left;
+    width: 33.3%;
+    height: 180px;
+}
+#WhatICanDo
+{
+    background-color: #00535B;
+    float: left;
+    width: 33.3%;
+    height: 180px;
+    background-color: #0A4046;
+}
+#WriteMe
+{
+    padding-top: 156px;
+    text-align: center;
+    float: left;
+    width: 33.3%;
+    height: 180px;
+    background-color: #1E656B;
+}
+
+#contact_head
+{
+    font-family: MyFont, 'Comic Sans MS', cursive;
+    font-size: 48px;
+    margin-top: 18px;
+    color: white;
+    margin-left: 5px;
+}
+#Contact_Phone
+{
+    padding-top: 2px;
+    line-height: 30px;
+    font-family: Normaltext, 'Comic Sans MS', cursive;
+    font-size: 24px;
+    margin-top: 40px;
+    margin-left: 15px;
+    color: #000C46;
+}
+
+#Serviss_text_bot
+{
+    padding: 10px;
+    color: white;
+    font-size: 17px;
+    padding-top: 65px;
+    text-align: justify;
 }
