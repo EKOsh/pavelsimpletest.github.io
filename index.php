@@ -22,7 +22,11 @@
             <span id="LeftTextTop1">Еремей Семенов</span>
         </div>
         <div id="InfaTop">
+            <div id="Phonenumber">
+                    8 (913) 431 26 02
+            </div>
             <div id ="socceti">
+
                 <a href="https://vk.com/bezneimatc"><img src="fb.png" width="47px" height="47px"></a>
                 <a href="https://vk.com/bezneimatc"><img src="vklogo.png" width="47px" height="47px" ></a>
                 <a href="https://vk.com/bezneimatc"><img src="twitter.png" width="47px" height="47px"></a>

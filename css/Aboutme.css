@@ -7,49 +7,123 @@
 {
     margin-top: 30px;
     width: 100%;
-    height: 400px;
-}
-#PhotographerIMG
-{
-    float: left;
-    margin-left: 2%;
-    margin-top: 50px;
-    height: 300px;
-    width: 48%;
+    height: 540px;
 
 }
-#Photographerquotion
+
+#Serviss
 {
+    margin-left: 20px;
     float: left;
-    margin-top: 50px;
-    height: 300px;
-    width: 48%;
-    font-size: 20px;
+    width: 400px;
+    height: 100%;
+
 }
-#Welcome
+
+#Serviss_text
 {
+    width: 100%;
+    height: 45px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 24px;
+    color: white;
+}
+
+#Serviss_img
+{
+    width: 400px;
+    height: 400px;
+    background-color: #2D7CFA;
+    margin: 0 auto;
+    position:relative;
+}
+#Serviss_Head
+{
+    width: 100%;
+    height: 45px;
+    text-align: center;
+    line-height: 45px;
+    font-size: 48px;
     font-family: MyFont, 'Comic Sans MS', cursive;
-    font-size: 34px;
-    font-weight:bold;
+    color: white;
+}
+#Serviss_text_Type
+{
+    width: 100%;
+    font-size: 24px;
+    height: 24px;
+    color: white;
+}
+
+#Serviss_text_Cost
+{
+    margin-top: 4px;
+    width: 100%;
+    font-size: 24px;
+    height: 24px;
+    color: #33CCFF;
+}
+#Serviss_text_Button
+{
+    width: 46%;
+    margin-left: 27%;
     margin-top: 20px;
+    height: 48px;
+    color: white;
+    line-height: 40px;
+    background-color: #295480;
+    border: 4px solid white;
+    border-radius: 16px;
 }
-#otherWelcome
-{
-    margin-top: 60px;
-    font-size: 22px;
-    text-align: left;
-    font-family: Normaltext, 'Comic Sans MS', cursive;
+
+#Serviss_img img{
+    margin:0;
+    position:absolute;
+    top:0px;
+    left:0px;
+    clip:rect(0px 400px 400px 0px);
 }
-#BigInfo
+
+#allServiss
 {
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-bottom: 20px;
-    border-radius: 2%;
-    border: 4px solid darkgrey;
-    background-color: white;
-    width: 48%;
-    margin-left: 2%;
-    font-size: 20px;
-    text-align: justify;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 1260px;
+}
+
+#hr1
+{
+    margin-top: 100px;
+    width: 70%;
+    margin-left: 15%;
+    height: 2px;
+    background-image: -webkit-linear-gradient(left,transparent 0,#fff 49%,transparent 100%);
+}
+
+#hr2
+{
+    margin-top: 24px;
+    width: 70%;
+    margin-left: 15%;
+    height: 2px;
+    background-image: -webkit-linear-gradient(left,transparent 0,#fff 49%,transparent 100%);
+}
+
+#EgorPidr
+{
+    margin-top: 14px;
+    font-family: MyFont, 'Comic Sans MS', cursive;
+    color: white;
+    text-align: center;
+    font-size: 48px;
+}
+
+
+#AllPortfoli
+{
+    margin-top: 50px;
+    background-color: #0D2E50;
+    height: 840px;
+    width: 100%;
 }

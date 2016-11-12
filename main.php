@@ -75,31 +75,55 @@
 </div>
 
 <div id="Photographer">
-
-    <div id="PhotographerIMG">
-        <div style="float: left; width: 40%; margin-left: 20px;">
-            <img src="FotographerFoto.jpg" width="300px" height="300px">
-        </div>
-        <div style="float: left; width: 50%;">
-            <div id="Welcome"> Рад приветствовать Вас на моем сайте!</div>
-            <div id ="otherWelcome">
-                Я - Еремей Семенов, свободный фотограф.<br><br>
-                Моя фотокамера: Canon 6d, объективы 50мм 1.4, 85 1.8, 24-70 2.8<br>
-                Работаю в Питербурге и Москве.<br>
-                Длительность полной фотосесси 2 часа.
+    <div id="Serviss_Head">Список услуг</div>
+    <div id ="allServiss">
+        <div id="Serviss">
+            <div id="Serviss_img">
+                <img src="firstservisess.jpg" >
+            </div>
+            <div id="Serviss_text">
+                <div id="Serviss_text_Type">Детское фото</div>
+                <div id="Serviss_text_Cost">1200 руб/час</div>
+                <div onclick="alert(123);" id="Serviss_text_Button">Заказать</div> <!-- Впихнуть лучше сюда обычный баттон -->
             </div>
         </div>
+
+        <div id="Serviss">
+            <div id="Serviss_img">
+                <img src="Secondservisess.jpg" >
+            </div>
+            <div id="Serviss_text">
+                <div id="Serviss_text_Type">Свадебное фото</div>
+                <div id="Serviss_text_Cost">1200 руб/час</div>
+                <div onclick="alert(123);" id="Serviss_text_Button">Заказать</div> <!-- Впихнуть лучше сюда обычный баттон -->
+            </div>
+        </div>
+
+        <div id="Serviss">
+            <div id="Serviss_img">
+                <img src="ThirdServices.jpg" >
+            </div>
+
+            <div id="Serviss_text">
+                <div id="Serviss_text_Type">Детское фото</div>
+                <div id="Serviss_text_Cost">1200 руб/час</div>
+                <div onclick="alert(123);" id="Serviss_text_Button">Заказать</div> <!-- Впихнуть лучше сюда обычный баттон -->
+           </div>
+        </div>
     </div>
-    <div id="BigInfo">
-        <hr>
-        Я Еремей Семенов профессиональный фотограф в Санкт-Петербурге со значительным опытом работы и большой любовью к тому, что  делаю! Специализируюсь на различных жанрах фотографии, таких как: - свадебная фотография, - семейная и детская съемки, - love-story, - фэнтезийная. Понимание и знание специфики студийной и уличной съемок! Гибкий подход к клиентам - фотосъемка под Вашу задачу и задумку. Наличие наработанной базы визажистов-стилистов. Наличие художественного вкуса, видение выгодных ракурсов, работа на результат!  ­­
-    </div>
+
+
 </div>
 
 
 <div>
+    <div id="hr1"></div>
+    <div id="EgorPidr">Длительность полной фотосессии — 2 часа.</div>
+    <div id="hr2"></div>
+<!-- Тут Портфолио и все такое -->
 
+    <div id = "AllPortfoli">
 
-
+    </div>
 
 </div>

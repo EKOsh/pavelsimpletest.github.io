@@ -13,7 +13,7 @@ body
 }
 #socceti
 {
-    margin-top: 23px;
+margin-top: 5px;
 }
 #Main
 {
@@ -33,10 +33,14 @@ body
     height: 94px;
     float: left;
     text-align: right;
-    font-size: 14px;
+    font-size: 18px;
+}
+#Phonenumber
+{
+    margin-right: 5px;
 }
 #LeftTextTop
-{
+{295480
     float: left;
     font-size: 32px;
     margin-left: 15px;
@@ -75,7 +79,7 @@ body
     width: 25%;
     height: 70px;
     line-height: 70px;
-    font-size: 24px;
+    font-size: 40px;
     text-align: center;
     color: black;
     font-family: MyFont, 'Comic Sans MS', cursive;
@@ -88,7 +92,7 @@ body
     width: 25%;
     height: 70px;
     line-height: 70px;
-    font-size: 24px;
+    font-size: 40px;
     text-align: center;
     color: black;
     font-family: MyFont, 'Comic Sans MS', cursive;
@@ -99,7 +103,7 @@ body
     width: 25%;
     height: 70px;
     line-height: 70px;
-    font-size: 24px;
+    font-size: 40px;
     text-align: center;
     color: black;
     font-family: MyFont, 'Comic Sans MS', cursive;
@@ -110,7 +114,7 @@ body
     width: 25%;
     height: 70px;
     line-height: 70px;
-    font-size: 24px;
+    font-size: 40px;
     text-align: center;
     color: black;
     font-family: MyFont, 'Comic Sans MS', cursive;
@@ -120,7 +124,7 @@ body
 {
     width: 90%;
     height: 1920px;
-    background-color: #666699;
+    background-color: #10365F;
     margin-left: 5%;
 }
 
