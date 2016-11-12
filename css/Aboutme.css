@@ -1,0 +1,55 @@
+#SomeSlider
+{
+    padding-top: 20px;
+
+}
+#Photographer
+{
+    margin-top: 30px;
+    width: 100%;
+    height: 400px;
+}
+#PhotographerIMG
+{
+    float: left;
+    margin-left: 2%;
+    margin-top: 50px;
+    height: 300px;
+    width: 48%;
+
+}
+#Photographerquotion
+{
+    float: left;
+    margin-top: 50px;
+    height: 300px;
+    width: 48%;
+    font-size: 20px;
+}
+#Welcome
+{
+    font-family: MyFont, 'Comic Sans MS', cursive;
+    font-size: 34px;
+    font-weight:bold;
+    margin-top: 20px;
+}
+#otherWelcome
+{
+    margin-top: 60px;
+    font-size: 22px;
+    text-align: left;
+    font-family: Normaltext, 'Comic Sans MS', cursive;
+}
+#BigInfo
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-radius: 2%;
+    border: 4px solid darkgrey;
+    background-color: white;
+    width: 48%;
+    margin-left: 2%;
+    font-size: 20px;
+    text-align: justify;
+}

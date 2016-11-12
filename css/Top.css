@@ -1,0 +1,126 @@
+body
+{
+    left:0px;
+    top:0px;
+    background-color: #333366;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#Top
+{
+    width: 100%;
+    height: 94px;
+}
+#socceti
+{
+    margin-top: 23px;
+}
+#Main
+{
+    width: 100%;
+    height: 100%;
+}
+#LogoTop
+{
+    margin-left: 5%;
+    width: 45%;
+    height: 94px;
+    float: left;
+}
+#InfaTop
+{
+    width: 45%;
+    height: 94px;
+    float: left;
+    text-align: right;
+    font-size: 14px;
+}
+#LeftTextTop
+{
+    float: left;
+    font-size: 32px;
+    margin-left: 15px;
+    line-height: 94px;
+    color: #33CCFF;
+    font-family: MyFont, 'Comic Sans MS', cursive;
+}
+#LeftTextTop1
+{
+    float: left;
+    margin-left: 4px;
+    font-size: 32px;
+    color: black;
+    line-height: 94px;
+    font-family: MyFont, 'Comic Sans MS', cursive;
+}
+@font-face {
+    font-family: MyFont; /* Гарнитура шрифта */
+    src: url(/9384.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Normaltext; /* Гарнитура шрифта */
+    src: url(/4684.ttf); /* Путь к файлу со шрифтом */
+}
+#Menu
+{
+    width: 90%;
+    height: 70px;
+    margin-left: 5%;
+    background-color: white;
+}
+
+#MenuButtons
+{
+    float: left;
+    width: 25%;
+    height: 70px;
+    line-height: 70px;
+    font-size: 24px;
+    text-align: center;
+    color: black;
+    font-family: MyFont, 'Comic Sans MS', cursive;
+    background-color: #66CC99;
+}
+
+#MenuButtons1
+{
+    float: left;
+    width: 25%;
+    height: 70px;
+    line-height: 70px;
+    font-size: 24px;
+    text-align: center;
+    color: black;
+    font-family: MyFont, 'Comic Sans MS', cursive;
+}
+#MenuButtons2
+{
+    float: left;
+    width: 25%;
+    height: 70px;
+    line-height: 70px;
+    font-size: 24px;
+    text-align: center;
+    color: black;
+    font-family: MyFont, 'Comic Sans MS', cursive;
+}
+#MenuButtons3
+{
+    float: left;
+    width: 25%;
+    height: 70px;
+    line-height: 70px;
+    font-size: 24px;
+    text-align: center;
+    color: black;
+    font-family: MyFont, 'Comic Sans MS', cursive;
+}
+
+#Undermenu
+{
+    width: 90%;
+    height: 1920px;
+    background-color: #666699;
+    margin-left: 5%;
+}
+
