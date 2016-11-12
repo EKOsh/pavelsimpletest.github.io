@@ -5,9 +5,9 @@
     <meta name="keywords" content="фотограф Москва Moscow свадебная съемка детская съемка love story photo, фото студийная съемка, art photo ">
 
     <title>Фотограф Еремей Семенов</title>
-    <link rel="stylesheet" href="/css/Top.css">
-    <link rel="stylesheet" href="/css/Aboutme.css">
-    <link rel="stylesheet" href="/slider/slider.css" type="text/css"/>
+    <link rel="stylesheet" href="css/Top.css">
+    <link rel="stylesheet" href="css/Aboutme.css">
+    <link rel="stylesheet" href="slider/slider.css" type="text/css"/>
     <script src='ajax.js'></script>
 </head>
 
